@@ -4,6 +4,6 @@ I am a person eager to learn and with a background in web development. I like to
 <img src="https://github-readme-stats.vercel.app/api?username=guimorgado&show_icons=true&theme=transparent" />
 
 <h1>You can find me at:</h1>
-<a href="https://www.linkedin.com/in/guimorgado/">
+<a target="_blank" href="https://www.linkedin.com/in/guimorgado/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
