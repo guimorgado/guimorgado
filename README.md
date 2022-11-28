@@ -10,7 +10,7 @@ I am a person eager to learn and with a background in web development. I like to
 </div>
 
 
-<div style="display: flex">
+<div style="display: flex" align="center">
 <p>You can find me at:</p>
 <a href="https://www.linkedin.com/in/guimorgado/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
