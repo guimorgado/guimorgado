@@ -4,11 +4,14 @@
 I am a person eager to learn and with a background in web development. I like to take on new challenges without fear, as I believe that stepping out of your comfort zone is the best way to grow.
 </div>
 
-<div style="display: flex, align-items: center; justify-content: center">
-<img src="https://github-readme-stats.vercel.app/api?username=guimorgado&show_icons=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimorgado&theme=blue-green" />
-</div>
-
+<h1>👨🏻‍💻 About Me:</h1>
+<ul>
+  <li>⭐️ Creating projects to learn more and more!</li>
+  <li>💬 Ask me about React, Javascript, Css, Node</li>
+  <li>📩 How to reach me gjfmorgado@gmail.com</li>
+  <li>🌱 I'm currently learning Typescript, Amazon AWS and Testing</li>
+  <li>🌐 Website (coming soon...)</li>
+</ul>
 
 <div style="display: flex" align="center">
 <p>You can find me at:</p>
