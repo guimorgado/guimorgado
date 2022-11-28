@@ -4,7 +4,7 @@
 I am a person eager to learn and with a background in web development. I like to take on new challenges without fear, as I believe that stepping out of your comfort zone is the best way to grow.
 </div>
 
-<div style="display: flex, align-items: center">
+<div style="display: flex, align-items: center; justify-content: center">
 <img src="https://github-readme-stats.vercel.app/api?username=guimorgado&show_icons=true&theme=transparent" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimorgado&theme=blue-green" />
 </div>
