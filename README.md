@@ -39,5 +39,6 @@ I am a person eager to learn and with a background in web development. I like to
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guimorgado" />
 </div>
