@@ -1,6 +1,8 @@
+<div align="center">
 # console.log("Hello World!👋")
 
-<p style="text-align: center;">I am a person eager to learn and with a background in web development. I like to take on new challenges without fear, as I believe that stepping out of your comfort zone is the best way to grow.</p>
+I am a person eager to learn and with a background in web development. I like to take on new challenges without fear, as I believe that stepping out of your comfort zone is the best way to grow.
+</div>
 
 <div style="display: flex, align-items: center">
 <img src="https://github-readme-stats.vercel.app/api?username=guimorgado&show_icons=true&theme=transparent" />
