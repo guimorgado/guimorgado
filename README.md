@@ -24,16 +24,16 @@ I am a person eager to learn and with a background in web development. I like to
 <h1>🔨 Languages and Tools:</h1>
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" />&nbsp
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/javascript" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />&nbsp
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/amazonwebservices" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/tailwindcss" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/redux" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/nodejs" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/express" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/laravel" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/mysql" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/mongodb" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/figma" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/tree/master/icons/git" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />&nbsp
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" />&nbsp
 </div>
