@@ -20,5 +20,7 @@ I am a person eager to learn and with a background in web development. I like to
 </a>
 </div>
 
+<div align="left">
 <h1>🔨 Languages and Tools:</h1>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" />
+</div>
