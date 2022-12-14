@@ -1,7 +1,5 @@
 <div align="center">
 <h1>console.log("Hello World!👋")</h1>
-  
-  # Hola
 
 I am a person eager to learn and with a background in web development. I like to take on new challenges without fear, as I believe that stepping out of your comfort zone is the best way to grow.
 </div>
