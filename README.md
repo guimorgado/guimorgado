@@ -37,8 +37,3 @@ I am a person eager to learn and with a background in web development. I like to
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />&nbsp
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" />&nbsp
 </div>
-
-<div>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=guimorgado" />
-</div>
