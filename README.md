@@ -8,7 +8,6 @@ I am a person eager to learn and with a background in web development. I like to
 <ul>
   <li>⭐️ Creating projects to learn more and more!</li>
   <li>💬 Ask me about React.js, Javascript, CSS, Node</li>
-  <li>📩 How to reach me gjfmorgado@gmail.com</li>
   <li>🌱 I'm currently learning Typescript, Amazon AWS and Testing</li>
   <li>🌐 Website (coming soon...)</li>
 </ul>
