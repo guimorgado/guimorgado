@@ -30,7 +30,6 @@ I am a person eager to learn and with a background in web development. I like to
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />&nbsp
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />&nbsp
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />&nbsp
-  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" />&nbsp
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />&nbsp
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" />&nbsp
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />&nbsp
