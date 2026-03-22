@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-- 🩵 **[Jasni](https://jasni.ai)** (closed source) - email inboxes for AI agents.
+
 
 ## What I'm Doing
 
@@ -22,10 +22,6 @@
 - **Rapid prototyping** - Full apps in days, not months
 
 ## Connect
-
-[![Twitter](https://img.shields.io/badge/-@morgadobuilds-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/morgadobuilds)
-[![LinkedIn](https://img.shields.io/badge/-guimorgado?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimorgado)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/guimorgado)
 
 ### Philosophy
 
